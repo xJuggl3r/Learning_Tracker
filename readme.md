@@ -75,6 +75,7 @@
 | ![In Progress][In Progress] | May 2019 | [Front End Development]                                         | [Free Code Camp]                            |
 | ![In Progress][In Progress] | May 2019 | [JavaScript30]                                                  | [Wes Bos]                                   |
 | ![In Progress][In Progress] | May 2019 | [Daily Coding Problem]                                          | [Lawrence Wu]                               |
+| ![In Progress][In Progress] | Jun 2019 | [HTML5 Coding Essentials and Best Practices]                    | [Michel Buffa]                               |
 | ![Soon][Soon]               |          | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
 | ![Soon][Soon]               |          | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
 | ![Soon][Soon]               |          | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
@@ -96,6 +97,7 @@
 [Responsive Web Design Certification]: https://www.freecodecamp.org/xjuggl3r
 [Front End Development]: https://learn.freecodecamp.org/
 [JavaScript30]: https://github.com/wesbos/JavaScript30
+[HTML5 Coding Essentials and Best Practices]: https://courses.edx.org/courses/course-v1:W3Cx+HTML5.1x+1T2019/course/
 [Daily Coding Problem]: https://www.dailycodingproblem.com
 [The Complete JavaScript Handbook]: https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
 [JavaScript clean code guide]: https://github.com/ryanmcdermott/clean-code-javascript
