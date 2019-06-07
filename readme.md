@@ -160,6 +160,7 @@
 [Andrei Neagoie]: https://twitter.com/AndreiNeagoie
 [P1xt]: https://github.com/P1xt
 [Shovan Chatterjee]: https://github.com/shovanch
+[Michel Buffa]: https://www.w3devcampus.com/michel-buffa/
 
 ----
 
