@@ -21,7 +21,7 @@
 |**Website Building**              | ![done][done]     | ![done][done] | ![done][done] |     |                |                 |
 |**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**React**                         | ![done][done]     |  |               |                  |                |                 |
+|**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Redux**                         | ![done][done]     |  |               |                  |                |                 |
 |**Git**                           | ![done][done]     | ![done][done] |               |     |                |                 |
 |**Git bash**                      | ![done][done]     | ![done][done] |               |                  |                |                 |
@@ -48,6 +48,7 @@
 |**Linux**                         | ![done][done]     | ![done][done] | ![done][done] |     |   |                 |
 |**Nginx**                         | ![done][done]     | ![done][done] | ![done][done] |     |   |                 |
 |**PHP**                           | ![done][done]     | ![done][done] |  |     |   |                 |
+|**NoSQL**                         | ![done][done]     |               |  |     |   |                 |
 
 ### Translation & Localization
 
@@ -177,7 +178,7 @@ I'm currently interested in/excited about:
 + Javascript best practice
 + Typescript
 + Front-end development
-+ Relocating to Canada ;)
++ Relocating to Canada 🍁😄
 
 ----
 
@@ -196,11 +197,11 @@ This is a list of basic objectives to meet on the road to mastering web developm
 * [x] Follow developers you admire on social media
 * [x] Read a book about coding
 * [x] Open your browser console
-* [ ] Get data from an API
+* [x] Get data from an API
 * [ ] Hide API keys from the public
 * [ ] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
-* [ ] Speak about something web development-related at an event
+* [x] Speak about something web development-related at an event
 * [ ] Complete a technical interview
 * [ ] Participate in a hackathon
 * [x] Deploy a project
