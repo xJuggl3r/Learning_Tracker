@@ -77,8 +77,8 @@
 | ![In Progress][In Progress] | May 2019 | [JavaScript30]                                                  | [Wes Bos]                                   |
 | ![In Progress][In Progress] | May 2019 | [Daily Coding Problem]                                          | [Lawrence Wu]                               |
 | ![In Progress][In Progress] | Jun 2019 | [HTML5 Coding Essentials and Best Practices]                    | [Michel Buffa]                               |
+| ![In Progress][In Progress] | Jun 2019 | [DOM Manipulation]                                              | [Traversy Media]              |
 | ![Soon][Soon]               |          | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
-| ![Soon][Soon]               |          | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
 | ![Soon][Soon]               |          | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
 | ![Soon][Soon]               |          | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![Soon][Soon]               |          | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
@@ -102,7 +102,7 @@
 [Daily Coding Problem]: https://www.dailycodingproblem.com
 [The Complete JavaScript Handbook]: https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
 [JavaScript clean code guide]: https://github.com/ryanmcdermott/clean-code-javascript
-[Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
+[DOM Manipulation]: https://www.youtube.com/watch?v=0ik6X4DJKCc
 [JavaScript and React for Developers]: https://www.udemy.com/js-and-react-for-devs/
 [You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
 [Workflow Tools for Web Developers]: https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html
@@ -138,6 +138,7 @@
 [Scrimba]: https://scrimba.com/
 [Kent C Dodds]: https://egghead.io/instructors/kentcdodds
 [egghead.io]: https://egghead.io/
+[Traversy Media]: https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
 ### Paths
 
