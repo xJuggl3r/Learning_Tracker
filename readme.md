@@ -10,15 +10,15 @@
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done] |   |                 |
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done] |   |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done] |   |                 |
+|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |   |                 |
+|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |   |                 |
+|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |   |                 |
 |**CSS Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] |     |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |     |                |                 |
 |**Accessibility**                 | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] |     |                |                 |
+|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
@@ -45,10 +45,11 @@
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
+|**Next.js**                       | ![done][done]     | ![done][done] |  |     |   |                 |
 |**Linux**                         | ![done][done]     | ![done][done] | ![done][done] |     |   |                 |
 |**Nginx**                         | ![done][done]     | ![done][done] | ![done][done] |     |   |                 |
-|**PHP**                           | ![done][done]     | ![done][done] |  |     |   |                 |
 |**NoSQL**                         | ![done][done]     |               |  |     |   |                 |
+|**PHP**                           | ![done][done]     |               |  |     |   |                 |
 
 ### Translation & Localization
 
