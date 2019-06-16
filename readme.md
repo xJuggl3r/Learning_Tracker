@@ -77,8 +77,9 @@
 | ![In Progress][In Progress] | May 2019 | [Front End Development]                                         | [Free Code Camp]                            |
 | ![In Progress][In Progress] | May 2019 | [JavaScript30]                                                  | [Wes Bos]                                   |
 | ![In Progress][In Progress] | May 2019 | [Daily Coding Problem]                                          | [Lawrence Wu]                               |
-| ![In Progress][In Progress] | Jun 2019 | [HTML5 Coding Essentials and Best Practices]                    | [Michel Buffa]                               |
-| ![In Progress][In Progress] | Jun 2019 | [DOM Manipulation]                                              | [Traversy Media]              |
+| ![In Progress][In Progress] | Jun 2019 | [HTML5 Coding Essentials and Best Practices]                    | [Michel Buffa]                              |
+| ![In Progress][In Progress] | Jun 2019 | [DOM Manipulation]                                              | [Traversy Media]                            |
+| ![In Progress][In Progress] | Jun 2019 | Next.js]                                                        | [Next.js Learn]                             |
 | ![Soon][Soon]               |          | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
 | ![Soon][Soon]               |          | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
 | ![Soon][Soon]               |          | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
@@ -115,6 +116,7 @@
 [The Web Developer Bootcamp - Back End]: https://www.udemy.com/the-web-developer-bootcamp
 [Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
 [JavaScript30]: https://javascript30.com/
+[Next.js Learn]: https://nextjs.org/learn/
 [JavaScript & jQuery]: http://javascriptbook.com/
 [Eloquent JavaScript]: http://eloquentjavascript.net/
 [Learn CSS Grid]: https://scrimba.com/g/gR8PTE
