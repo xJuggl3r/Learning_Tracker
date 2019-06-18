@@ -22,7 +22,7 @@
 |**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Redux**                         | ![done][done]     |  |               |                  |                |                 |
+|**Regex**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Git**                           | ![done][done]     | ![done][done] |               |     |                |                 |
 |**Git bash**                      | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] |               |     |                |                 |
