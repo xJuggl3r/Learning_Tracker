@@ -80,7 +80,7 @@
 | ![In Progress][In Progress] | Jun 2019 | [HTML5 Coding Essentials and Best Practices]                    | [Michel Buffa]                              |
 | ![Done][Done]               | Jun 2019 | [DOM Manipulation]                                              | [Traversy Media]                            |
 | ![In Progress][In Progress] | Jun 2019 | [Next.js]                                                       | [Next.js Learn]                             |
-| ![Soon][Soon]               |          | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
+<!-- | ![Soon][Soon]               |          | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
 | ![Soon][Soon]               |          | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
 | ![Soon][Soon]               |          | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![Soon][Soon]               |          | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
@@ -93,7 +93,7 @@
 | ![Soon][Soon]               |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
 | ![Soon][Soon]               |          | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
 | ![Soon][Soon]               |          | Read [You Don't know JavaScript]                                | Kyle Simpson                                |
-| ![Soon][Soon]               |          | [Machine Learning, Data Science and Deep Learning with Python]  | Frank Kane                                  |
+| ![Soon][Soon]               |          | [Machine Learning, Data Science and Deep Learning with Python]  | Frank Kane                                  | -->
 
 [//]: # (Reference links to courses)
 
