@@ -1,6 +1,6 @@
 # Learning Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Web%20Dev%20learning%20tracker%20&url=https://github.com/xJuggl3r/Learning-Tracker&via=xJuggl3r&hashtags=100DaysofCode)
 
-#### A starting log of my web development skills, learning, resources, highlights, interests, and everything to do with my new journey.
+#### A starting log of my web development skills, learning, resources, highlights, interests, and everything to do with it.
 
 ----
 
