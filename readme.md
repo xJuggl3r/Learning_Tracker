@@ -34,10 +34,7 @@
 |**jQuery**                        | ![done][done]     | ![done][done] |               |     |                |                 |
 |**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] |     |                |                 |
 |**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] |     |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM scripts**                   | ![done][done]     |               |               |                  |                |                 |
+|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 ||
 |**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Machine Learning**              | ![done][done]     |               |               |                  |                |                 | |
 
@@ -46,8 +43,12 @@
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**Next.js**                       | ![done][done]     | ![done][done] |  |     |   |                 |
+|**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**NPM scripts**                   | ![done][done]     |               |               |                  |                |                 
 |**Linux**                         | ![done][done]     | ![done][done] | ![done][done] |     |   |                 |
 |**Nginx**                         | ![done][done]     | ![done][done] | ![done][done] |     |   |                 |
+|**MongoDB**                       | ![done][done]     | ![done][done] |  |     |   |                 |
 |**NoSQL**                         | ![done][done]     |               |  |     |   |                 |
 |**PHP**                           | ![done][done]     |               |  |     |   |                 |
 
