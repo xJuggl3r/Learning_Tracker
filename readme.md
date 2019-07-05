@@ -12,8 +12,8 @@
 | :--------------------------- | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :-----------: |
 | **Markdown**                 |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  | ![done][done] |
 | **HTML5**                    |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
-| **CSS3**                     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
-| **CSS Grid & Flex-box**      |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
+| **CSS3**                     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
+| **CSS Grid & Flex-box**      |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
 | **SASS**                     |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
 | **Responsive design**        |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
 | **Accessibility**            |   ![done][done]   | ![done][done] |               |                  |                |               |
@@ -80,9 +80,7 @@
 | ![In Progress][in progress] | May 2019      | [Daily Coding Problem]                                         |          [Lawrence Wu]           |
 | ![In Progress][in progress] | Jun 2019      | [HTML5 Coding Essentials and Best Practices]                   |          [Michel Buffa]          |
 |        ![Done][done]        | Jun 2019      | [DOM Manipulation]                                             |         [Traversy Media]         |
-| ![In Progress][in progress] | Jun 2019      | [Next.js]                                                      |         [Next.js Learn]          |
-|            <!--             | ![Soon][soon] |                                                                |  [JavaScript clean code guide]   | [Ryan McDermott] |
-|        ![Soon][soon]        |               | [The Beginner's Guide to Reactjs]                              |  [Kent C Dodds] - [egghead.io]   |
+| ![In Progress][done]        | Jun 2019      | [Next.js]                                                      |         [Next.js Learn]          |
 |        ![Soon][soon]        |               | [Google Developer Challenge Scholarship] - Web Developer       |            [Udacity]             |
 |        ![Soon][soon]        |               | [Workflow Tools for Web Developers]                            | [Christina Truong] - [Lynda.com] |
 |        ![Soon][soon]        |               | [Learning Git and GitHub]                                      |  [Ray Villalobos] - [Lynda.com]  |
@@ -180,37 +178,10 @@ I'm currently interested in/excited about:
 
 ---
 
-## Web Development Checklist
-
-This is a list of basic objectives to meet on the road to mastering web development.
-
-- [x] Make use of the computer’s terminal
-- [x] Use a dev text editor (bonus points if you have a specific reason for choosing it)
-- [x] Use some keyboard shortcuts
-- [ ] Write tests for your code
-- [x] Help another web developer with something they’re having trouble with
-- [x] Attend an event about web development
-- [x] Follow developers you admire on social media
-- [x] Read a book about coding
-- [x] Open your browser console
-- [x] Get data from an API
-- [ ] Hide API keys from the public
-- [ ] Post a question on Stack Overflow
-- [x] Push code to GitHub or GitLab or BitBucket
-- [x] Speak about something web development-related at an event
-- [ ] Complete a technical interview
-- [ ] Participate in a hackathon
-- [x] Deploy a project
-- [ ] Ship your project to a store
-- [x] Contribute to open source
-- [x] Get paid to code
-
----
-
-**You can [follow me on Twitter](https://twitter.com/xJuggl3r "@xJuggl3r") or [get in touch](https://xJuggl3r.github.io/xJuggler/#contact "My contact section | Portfolio")**
+**You can [follow me on Twitter](https://twitter.com/xJuggl3r "@xJuggl3r") or [get in touch](https://dev.to/xJuggl3r "Dev.to")**
 
 ---
 
 ### Acknowledgments
 
-This has been inspired by [Syknapse](https://twitter.com/Syknapse "@Syknapse") | [Shovan Chatterjee](https://twitter.com/shovan_ch) | [Alexander Kallaway's](https://twitter.com/ka11away) | [Ginny Fahs](https://twitter.com/ginnyfahs)
+This has been inspired by [Syknapse](https://twitter.com/Syknapse "@Syknapse") | [Shovan Chatterjee](https://twitter.com/shovan_ch) | [Alexander Kallaway's](https://twitter.com/ka11away)
